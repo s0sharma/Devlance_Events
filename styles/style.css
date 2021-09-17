@@ -160,7 +160,7 @@ nav ul li a {
       }
 
       nav ul li {
-            margin-left: 70px;
+            margin-left: 62px;
             box-sizing: border-box;
             width: 100%;
             padding: 30px;
@@ -171,7 +171,7 @@ nav ul li a {
             display: block;
       }
       .contact-style{
-        margin-right: 43px;
+        margin-right: 40px;
         display: block;
         padding: 20px;
         color: rgba(255, 255, 255, 0.7);
