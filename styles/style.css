@@ -150,8 +150,10 @@ nav ul li a {
       }
       .nav-link:hover {
         text-decoration: none;
- 
        }
+      .nav-link:hover::before {
+        transform: scaleX(0);
+    }
 
       .showing {
             max-height: 34em;
