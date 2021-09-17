@@ -134,7 +134,7 @@ nav ul li a {
 @media(max-width: 786px) {
 
       .logo {
-            position: fixed;
+            position: absolute;
             top: 0;
             margin-top: 16px;
       }
@@ -172,7 +172,6 @@ nav ul li a {
         border: 0;
     }
     .logo{
-        position: absolute;
         margin-top: 10px;
         margin-left: 5px;
     }
