@@ -148,13 +148,17 @@ nav ul li a {
       nav.black ul {
             background: #000;
       }
+      .nav-link:hover {
+        text-decoration: none;
+ 
+       }
 
       .showing {
             max-height: 34em;
       }
 
       nav ul li {
-            margin-left: 80px;
+            margin-left: 70px;
             box-sizing: border-box;
             width: 100%;
             padding: 30px;
@@ -165,13 +169,14 @@ nav ul li a {
             display: block;
       }
       .contact-style{
-        margin-right: 50px;
+        margin-right: 43px;
         display: block;
         padding: 20px;
         color: rgba(255, 255, 255, 0.7);
         transition: 0.3s;
         border: 0;
     }
+  
     
 }
 
