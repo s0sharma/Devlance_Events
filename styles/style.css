@@ -173,23 +173,24 @@ nav ul li a {
        }
 
       nav ul li {
-            margin-left: 62px;
+             margin-left: 0;
             box-sizing: border-box;
             width: 100%;
-            padding: 30px;
-            text-align: center;
+            padding: 0 0 0 0;
+            text-align: left;
       }
 
       .menu-icon {
             display: block;
       }
       .contact-style{
-        margin-right: 48px;
+         margin-left: 15px;
         display: block;
-        padding: 20px;
+        text-align: left;
+        padding: 10px 0 20px;
         color: rgba(255, 255, 255, 0.7);
         transition: 0.3s;
-        border: 0;
+        border: 0;;
     }
   
     
