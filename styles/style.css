@@ -279,6 +279,21 @@ a {
     text-decoration: none;
 }
 
+@media(max-width: 786px) {
+    
+
+    .events .heading_section .container h1{
+        font-size: 270%!important;
+    }
+    .whatsapp-p{
+        font-size: 15px!important;  
+    }
+    .events .heading_section {
+        height: 87vh!important;
+    }
+}
+
+
 
 /******************************************* event *******************************************/
 
